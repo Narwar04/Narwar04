@@ -69,8 +69,12 @@
 
 <br clear="both">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Narwar04/Narwar04/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Narwar04/Narwar04/output/github-snake.svg" />  
+  <img src="https://raw.githubusercontent.com/Narwar04/Narwar04/output/snake.svg" alt="Snake animation" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/Narwar04/Narwar04/output/snake.svg" alt="Snake animation" />
 
 ###
 
